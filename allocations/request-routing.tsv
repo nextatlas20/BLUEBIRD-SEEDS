@@ -1,0 +1,9 @@
+request_id	plot_id	seed_name	packets	urgency	eligible_offers	assigned_offer	grower	unit_price	total_price	status
+R-01	P-APPLE	Basil	3	1	2	O-11	Green Finch	4	12	ASSIGNED
+R-02	P-APPLE	Marigold	4	2	1	-	-	-	0	RESOURCE_HOLD
+R-03	P-BEE	Borage	2	1	2	O-32	Bloom Bank	4	8	ASSIGNED
+R-04	P-BEE	Cosmos	5	2	1	O-41	Bloom Bank	2	10	ASSIGNED
+R-05	P-CEDAR	Radish	6	1	2	O-51	Root Cellar	1	6	ASSIGNED
+R-06	P-CEDAR	Zinnia	3	3	1	-	-	-	0	RESOURCE_HOLD
+R-07	P-DELTA	Cilantro	2	1	0	-	-	-	0	NO_ELIGIBLE_OFFER
+R-08	P-DELTA	Dill	4	2	0	-	-	-	0	NO_ELIGIBLE_OFFER
