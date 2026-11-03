@@ -1,0 +1,19 @@
+offer_id	request_id	grower	price	available_packets	delivery_days	organic
+O-11	R-01	Green Finch	4	3	5	YES
+O-12	R-01	Herb House	3	2	1	YES
+O-13	R-01	Meadow Seed	4	5	3	YES
+O-21	R-02	Green Finch	2	4	2	YES
+O-22	R-02	Sun Parcel	3	4	1	NO
+O-31	R-03	Pollinator Co	5	2	4	YES
+O-32	R-03	Bloom Bank	4	2	6	YES
+O-41	R-04	Bloom Bank	2	5	3	YES
+O-51	R-05	Root Cellar	1	6	1	YES
+O-52	R-05	Root Cellar	1	6	2	YES
+O-61	R-06	Bloom Bank	4	3	5	YES
+O-71	R-07	Herb House	3	2	2	MAYBE
+O-72	R-08	Herb House	02	4	2	YES
+O-DUP	R-02	Green Finch	2	4	3	YES
+O-DUP	R-02	Green Finch	1	4	4	YES
+O-X	R-99	Ghost Grower	1	1	1	YES
+O-STOCK	R-06	Bloom Bank	3	00	2	YES
+O-LEAD	R-08	Herb House	2	4	-1	YES

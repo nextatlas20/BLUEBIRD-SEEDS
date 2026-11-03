@@ -1,0 +1,9 @@
+request_id	plot_id	seed_name	packets	max_price	urgency
+R-01	P-APPLE	Basil	3	4	1
+R-02	P-APPLE	Marigold	4	3	2
+R-03	P-BEE	Borage	2	5	1
+R-04	P-BEE	Cosmos	5	2	2
+R-05	P-CEDAR	Radish	6	2	1
+R-06	P-CEDAR	Zinnia	3	4	3
+R-07	P-DELTA	Cilantro	2	3	1
+R-08	P-DELTA	Dill	4	2	2
